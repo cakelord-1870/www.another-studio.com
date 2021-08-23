@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.another-studio.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.another-studio.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.another-studio.com/collections/wildlife.atom"/>
+  <title>Another Studio</title>
+  <updated>2021-08-05T16:35:34+01:00</updated>
+  <author>
+    <name>Another Studio</name>
+  </author>
+  <entry>
+    <id>https://www.another-studio.com/products/6590367105142</id>
+    <published>2021-08-05T16:35:34+01:00</published>
+    <updated>2021-08-05T16:35:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/brass-bird-decoration"/>
+    <title>Brass Bird Decoration</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Plant-Animals_Hanging_Bird_lowres-1500_c69dadbc-7909-42e8-b78b-52143001e040.jpg?v=1628503727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A beautifully etched brass bird mobile.</p>
+<p>Packed flat, it simply folds together to create an elegant hanging bird decoration. Display with your plants or from a shelf.</p>
+<p>Each pack contains one brass model with assembly instructions. Simply fold the metal into shape, no adhesives or tools required!</p>
+<p><strong>Contents:</strong> x1 brass model, and assembly instructions.<br><strong>Product Dimensions:</strong>80mm diameter<br><strong>Packaging:</strong>148 x 105mm printed on FSC 100% recycled paper, sealed in a plastic free compostable cello wrap. <br><strong>Weight:<span> </span></strong>10g</p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bird</s:tag>
+    <s:tag>Decoration</s:tag>
+    <s:tag>houseplant decorations</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>mobile</s:tag>
+    <s:tag>Plant hangers</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:tag>Wildlife</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6590367105142</id>
+      <title>Brass Bird Decoration</title>
+      <s:price currency="GBP">8.95</s:price>
+      <s:sku>HB-1</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6582423289974</id>
+    <published>2021-07-13T10:15:12+01:00</published>
+    <updated>2021-07-13T10:15:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/insect-bookmarks"/>
+    <title>Insect Bookmarks</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/PM4-Insects-hand-1500_1.jpg?v=1626274958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mark your page with these insect bookmarks design to 1:1 scale.</p>
+<p>This set includes four miniature stainless steel insects, moth, bee, beetle and fly</p>
+<p><strong>Contents: </strong>Insect Bookmark Clips<br><strong>Materials: </strong>Stainless steel, paper<br><strong>Packaging Dimensions: </strong>15 x 11 cm</p><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>bookmarks</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6582423289974</id>
+      <title>Insect Bookmarks</title>
+      <s:price currency="GBP">7.95</s:price>
+      <s:sku>PM4</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6543703638134</id>
+    <published>2021-03-19T17:28:39+00:00</published>
+    <updated>2021-03-19T17:28:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tropical-bird-bookmarks"/>
+    <title>Tropical Bird Bookmarks</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Bookmarks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/tropical-bird-hand.jpg?v=1623924729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bookmarks<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brighten up your paperwork, files and books with our tropical bird bookmarks.<br><br>The four piece set includes a Toucan, Macaw, Lovebird and Hummingbird, all beautifully etched in steel. Simply slide them onto the top of your page!<br><br><strong>Contents:</strong> Four page markers<br><strong>Materials:</strong> Stainless steel, paper <br><strong>Packaging Dimensions:</strong> 105 x 148mm<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>bird</s:tag>
+    <s:tag>Bookmarks</s:tag>
+    <s:tag>Wildlife</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6543703638134</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">7.95</s:price>
+      <s:sku>PM6-BIRDS</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

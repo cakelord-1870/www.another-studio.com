@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.another-studio.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.another-studio.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.another-studio.com/collections/terrarium-decor.atom"/>
+  <title>Another Studio</title>
+  <updated>2021-08-11T12:12:30+01:00</updated>
+  <author>
+    <name>Another Studio</name>
+  </author>
+  <entry>
+    <id>https://www.another-studio.com/products/6592027033718</id>
+    <published>2021-08-11T12:12:30+01:00</published>
+    <updated>2021-08-11T12:12:30+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/castle-mini-model"/>
+    <title>Castle Mini Model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Mini Model</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Mini-model-Castle_plant-1500.jpg?v=1628680640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Model<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p id="yui_3_17_2_1_1524751479965_805">Feel like a mini millionaire with this tiny object of desire! Be the ruler of your own tiny kingdom with this castle. A perfect little edition to add to your shelf, terrarium or plant pot!</p>
+<p>Each pack contains one brass model with step by step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions:</strong> 30 x 32 x 35mm<br><strong>Packaging Dimensions:</strong> 10.5 x 10.5cm<br><strong>Product Weight: </strong>10g</p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Architecture</s:tag>
+    <s:tag>castle</s:tag>
+    <s:tag>London</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrarium decor</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6592027033718</id>
+      <title>Castle Mini Model</title>
+      <s:price currency="GBP">10.50</s:price>
+      <s:sku>MINI-02-CASTLE</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6584666226806</id>
+    <published>2021-07-22T09:14:56+01:00</published>
+    <updated>2021-07-22T09:14:56+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/brass-blooms-bouquet"/>
+    <title>Brass Blooms Bouquet</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Another-Studio-Brass-Bloom-Bouquet-white-web-crop-2000.jpg?v=1626872976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brass Blooms are elegant decorative ornaments for your plants. 
+<div data-mce-fragment="1"><br></div>
+<div data-mce-fragment="1">
+<div data-mce-fragment="1">This bouquet set includes a delicate cosmos, a stem of lilies, a sprig of gypsophila and an elegant freesia. If only they smelt as good as they look! </div>
+<div data-mce-fragment="1"></div>
+</div>
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Gently twist the flowers from their sheet and place them in your plant pot, terrarium or a decorative vase to add a floral flourish to any room!</span><br data-mce-fragment="1">
+</div>
+<div data-mce-fragment="1"><span data-mce-fragment="1"></span></div>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Also available in <a href="https://www.another-studio.com/collections/terrarium-decor/products/brass-blooms-wildflowers">Wildflowers</a> and <a href="https://www.another-studio.com/collections/terrarium-decor/products/brass-bloom-garden" target="_blank">Garden</a>. </span></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<div data-mce-fragment="1">
+<strong>Contents</strong>: 1 x Brass Bloom sheet, set of 4 flowers </div>
+<div data-mce-fragment="1">
+<strong>Packaging</strong>: 100% recycled FSC Paper with a biodegradable plastic free wrap - 20 x 15cm </div>
+<div data-mce-fragment="1">Made from corrosion resistant brass with <span data-mce-fragment="1">beautiful etched accents. </span>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decoration</s:tag>
+    <s:tag>flowers</s:tag>
+    <s:tag>houseplant decorations</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>terrarium decor</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6584666226806</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">11.95</s:price>
+      <s:sku>BB-3-BOU</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6583281025142</id>
+    <published>2021-07-15T16:08:55+01:00</published>
+    <updated>2021-07-15T16:08:55+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/brass-blooms-wildflowers"/>
+    <title>Brass Blooms Wildflowers</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Brass-Blooms-Web-Op-Open-Terrarium-1500_1.jpg?v=1626710412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brass Bloom Wildflowers are botanical ornaments for your plants! Designed in Aimee's London garden during the summer lockdown of 2020. </p>
+<p>These etched brass flowers that are always in bloom. Stand them in your plant pots to create a mini indoor meadow, or place them in a terrarium to create a little wonderland. </p>
+<p>Included in the set: A bright and bold Corn Marigold, a feathery delicate Nigella flower, the romantic Forget Me Not, and a wild and hardy Cornflower.</p>
+<div>
+<strong>Contents</strong>: 1 x Brass Bloom sheet, set of 4 flowers </div>
+<div>
+<strong>Packaging</strong>: FSC Paper with a biodegradable cellophane wrap - 20 x 15cm </div>
+<div>Made from corrosion resistant brass with <span>beautiful etched accents. </span>
+</div>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flowers</s:tag>
+    <s:tag>houseplant decorations</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrarium decor</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6583281025142</id>
+      <title>Brass Blooms Wildflowers</title>
+      <s:price currency="GBP">11.95</s:price>
+      <s:sku>BB-1</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6583280664694</id>
+    <published>2021-07-15T16:07:00+01:00</published>
+    <updated>2021-07-15T16:07:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/mini-mushrooms-steel-1"/>
+    <title>Mini Mushrooms - Steel</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/AnotherStudio-Mini-Mushroom-Steel-Scene-low-res-2000-square.jpg?v=1626361993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">Mini Mushrooms are fun decorative ornaments for your plants! </div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Create a mini woodland scene with this fabulous set of brass fungi. Included in the set is </span><span data-mce-fragment="1">Fly Agaric, E</span><span data-mce-fragment="1">noki, </span><span data-mce-fragment="1">Ink caps and </span><span data-mce-fragment="1">Chanterelle.</span><br data-mce-fragment="1">
+</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<div data-mce-fragment="1">These sweet little mushrooms are ideal for livening up your plants or terrarium by simply pushing the mushrooms into the soil.</div>
+</div>
+<div data-mce-fragment="1"><span data-mce-fragment="1"><br data-mce-fragment="1"></span></div>
+<div data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Contents: 1 x Steel Mini Mushroom set</span></div>
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Packaging: FSC Paper with a biodegradable cellophane wrap - </span><span data-mce-fragment="1">125 x 175mm</span>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decoration</s:tag>
+    <s:tag>houseplant decorations</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6583280664694</id>
+      <title>Mini mushrooms steel</title>
+      <s:price currency="GBP">9.95</s:price>
+      <s:sku>MS-2</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6583277715574</id>
+    <published>2021-07-15T15:55:25+01:00</published>
+    <updated>2021-07-15T15:55:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/mini-mushrooms-brass"/>
+    <title>Mini Mushrooms - Brass</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/AnotherStudio-Mini-Mushroom-Brass-Open-Terrarium-low-res-2000_ca3a04a1-1823-4cc6-b993-de741f3a1bab.jpg?v=1626362502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">Mini Mushrooms are fun decorative ornaments for your plants! </div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Create a mini woodland scene with this fabulous set of brass fungi. Included in the set is </span><span data-mce-fragment="1">Fly Agaric, E</span><span data-mce-fragment="1">noki, </span><span data-mce-fragment="1">Ink caps and </span><span data-mce-fragment="1">Chanterelle.</span><br data-mce-fragment="1">
+</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<div data-mce-fragment="1">These sweet little mushrooms are ideal for livening up your plants or terrarium by simply pushing the mushrooms into the soil.</div>
+</div>
+<div data-mce-fragment="1"><span data-mce-fragment="1"><br data-mce-fragment="1"></span></div>
+<div data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Contents: 1 x Brass Mini Mushroom set</span></div>
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Packaging: FSC Paper with a biodegradable cellophane wrap - </span><span data-mce-fragment="1">125 x 175mm</span>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>houseplant decorations</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>mushroom</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrarium decor</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6583277715574</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">9.95</s:price>
+      <s:sku>MS-1</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6581280440438</id>
+    <published>2021-07-09T16:06:47+01:00</published>
+    <updated>2021-07-09T16:06:47+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/brass-bloom-garden"/>
+    <title>Brass Bloom Garden</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Another-Studio-Brass-Bloom-Garden-Pink-scene-web-2000-crop.jpg?v=1626274262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brass Bloom are decorative ornaments for your plants. This new garden set features a sweet little Pansy, a glorious Poppy, a delicate Lily-of-the-Valley and a bold Echinacea.<br><br>Gently twist the flowers free from the sheet and stand Place them in your plant pots or terrarium to create a mini garden that is always in bloom.</p>
+<p><br></p>
+<p><strong>Contents</strong>: 1x Brass Bloom sheet with 4 flowers<br>Made from corrosion resistant brass<br><strong>Packaging</strong>: 100% recycled FSC paper with a biodegradable cellophane film<br><br>Flower measurements are approximately:<br>Pansy - 8.5cm x 2<br>Poppy - 13cm x 3.5<br>Lily-of-the-Valley - 10cm x 2cm<br>Echinacea - 15cm x 3cm</p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decoration</s:tag>
+    <s:tag>flowers</s:tag>
+    <s:tag>houseplant decorations</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6581280440438</id>
+      <title>Brass bloom garden</title>
+      <s:price currency="GBP">11.95</s:price>
+      <s:sku>BB-2-GAR</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6581279883382</id>
+    <published>2021-07-09T16:03:06+01:00</published>
+    <updated>2021-07-09T16:03:06+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/house-mini-model"/>
+    <title>House Mini Model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Mini Model</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/AnotherStudio-Mini-Model-House-London-Terrarium-1500.jpg?v=1626275156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Model<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A house you can finally afford! This miniature house model is a fun lightweight gift to send in the post. Perfect to decorate a plant or terrarium. </p>
+<p>Each pack contains one flat-pack brass model with step-by-step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions: </strong>24 x 20 x 27mm<br><strong>Packaging Dimensions:</strong> 10.5 x 10.5cm<br><strong>Product Weight: </strong>10g</p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Architecture</s:tag>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrarium decor</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6581279883382</id>
+      <title>House Mini Model</title>
+      <s:price currency="GBP">10.50</s:price>
+      <s:sku>MINI-01-HOUSE</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6576367534198</id>
+    <published>2021-07-01T14:41:52+01:00</published>
+    <updated>2021-07-01T14:41:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/plant-animal-flamingo"/>
+    <title>Plant Animal Flamingo</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Another-Studio-Plant-Animal-Flammingo-green-pot-2000-web-crop.jpg?v=1626941817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">Plant Animals are a delightful way to make your own tropical jungle.</div>
+<div data-mce-fragment="1">Our flamboyant Plant Animal Flamingo is intricately etched in brass with delicate feathered details. The Flamingo stands proud in your terrarium or plant pot, by simply pushing her into the soil. </div>
+<div data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Like tropical birds? The Flamingo gets along well with our Plant Animal Toucan &amp; Parrot! </span></div>
+</div>
+<div data-mce-fragment="1"><span data-mce-fragment="1"><br data-mce-fragment="1"></span></div>
+<div data-mce-fragment="1">This fabulous Flamingo is one of 24 fun creatures for your houseplants. Collect the whole plant gang:</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Bush Baby • Chameleon • Flying Squirrel • Fox • Frog • Fruit Bat • Koala • Meerkat • Monkey • Orangutang • Owl • Pangolin • Parrot • Praying Mantis • Raccoon • Sloth • Snake • Squirrel • Lemur • Chimpanzee • Damselfly • Flying Lizard <span data-mce-fragment="1">• Flamingo </span><span data-mce-fragment="1">• Toucan </span>
+</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Contents: 1 x Brass Plant Animal approx 8L x 4.5W cm</div>
+<div data-mce-fragment="1">Corrosion resistant brass</div>
+<div data-mce-fragment="1">Packaging: FSC Paper with a biodegradable cellophane wrap - 15 x 5cm</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Decoration</s:tag>
+    <s:tag>houseplant decorations</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Plant Animals</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrarium decor</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6576367534198</id>
+      <title>Plant Animal Flamingo</title>
+      <s:price currency="GBP">5.75</s:price>
+      <s:sku>PA-24-FLA</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/4563709198454</id>
+    <published>2020-09-09T16:17:34+01:00</published>
+    <updated>2020-09-09T16:17:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/plant-animal-fox"/>
+    <title>Plant Animal Fox</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/AnotherStudio-Plant-Animal-Fox-Succulent-white-1500.jpg?v=1615221442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><meta charset="utf-8">Our collection of Plant Animals are a delightful way to make your own mini woodland retreat.</p>
+<p data-mce-fragment="1">Our friendly little fox, donned with a cheeky smile sits in your plant pots. Keeping a watchful eye, he will make the perfect addition to your indoor forest or terrarium.</p>
+<p data-mce-fragment="1">This fluffy fella is one of 22 playful creatures for your houseplants or terrarium.  Collect the whole plant gang:</p>
+<div data-mce-fragment="1">
+<span color="#212b36" face="-apple-system, system-ui, San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif" data-mce-fragment="1">Bush Baby • Chameleon • Flying Squirrel • Fox • Frog • Fruit Bat • Koala • Meerkat • Monkey • </span><span data-mce-fragment="1">Orangutang</span><span color="#212b36" face="-apple-system, system-ui, San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif" data-mce-fragment="1"> • Owl • Pangolin • Parrot • Praying Mantis • Raccoon • Sloth • Snake • Squirrel <meta charset="utf-8"></span><span data-mce-fragment="1">• Lemur  • Chimpanzee </span><span data-mce-fragment="1">•</span><span color="#212b36" face="-apple-system, system-ui, San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif" data-mce-fragment="1"><span data-mce-fragment="1"> </span><span data-mce-fragment="1">Damselfly</span><span data-mce-fragment="1"> </span></span><span data-mce-fragment="1">•</span><span data-mce-fragment="1"> Flying Lizard</span>
+</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<b data-mce-fragment="1">Contents</b>: 1 x Brass Plant Animal approx 7L x 2.5W cm</div>
+<div data-mce-fragment="1">
+<meta charset="utf-8">
+<span>Corrosion</span><span> resistant brass</span>
+</div>
+<div data-mce-fragment="1">
+<b data-mce-fragment="1">Packaging:</b> FSC Paper with a biodegradable cellophane wrap - 15 x 5cm <b data-mce-fragment="1"><br data-mce-fragment="1"></b>
+</div>
+<div data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Forest</s:tag>
+    <s:tag>Fox</s:tag>
+    <s:tag>houseplant decorations</s:tag>
+    <s:tag>Plant Animals</s:tag>
+    <s:tag>Plant hangers</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>Wildlife</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/4563709198454</id>
+      <title>Plant Animal Fox</title>
+      <s:price currency="GBP">5.75</s:price>
+      <s:sku>PA-17-FOX</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/4533264089206</id>
+    <published>2020-06-24T11:21:42+01:00</published>
+    <updated>2020-06-24T11:21:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/plant-animal-squirrel"/>
+    <title>Plant Animal Squirrel</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/PA-Squirrel-plants-1500.jpg?v=1620120827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><meta charset="utf-8">Plant Animals are a delightful way to make your own indoor forest.</p>
+<p>This cheeky little squirrel, nibbling away with his bushy tail simply stands in your plants pot. All you need to do is provide him with a pot and some peanuts!</p>
+<div>
+<p>This mischievous chap is one of 20 playful creatures for your houseplants or terrarium. Collect the whole plant gang:</p>
+<p data-mce-fragment="1">Bush Baby • Chameleon • Flying Squirrel • Fox • Frog • Fruit Bat • Koala • Meerkat • Monkey • Orangutang • Owl • Pangolin • Parrot • Praying Mantis • Raccoon • Sloth • Snake • Squirrel • Lemur • Chimpanzee • Damselfly • Flying Lizard</p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Contents</b>: 1 x Brass Plant Animal approx 5.5L x 4.5W cm</p>
+<div data-mce-fragment="1">
+<span>Corrosion</span><span> resistant brass</span>
+</div>
+<div data-mce-fragment="1">
+<b data-mce-fragment="1">Packaging:</b> FSC Paper with a biodegradable cellophane wrap - 15 x 5cm</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>houseplant decorations</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plant Animals</s:tag>
+    <s:tag>Plant hangers</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:tag>Wildlife</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/4533264089206</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">5.75</s:price>
+      <s:sku>PA-16-SQU</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2318902493243</id>
+    <published>2019-08-15T13:51:50+01:00</published>
+    <updated>2019-08-15T13:51:50+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/plant-animal-meerkat"/>
+    <title>Plant Animal Meerkat</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/AnotherStudio-Plant-Animal-Meerkat-White-Succulent-1500.jpg?v=1615221939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><meta charset="utf-8">Our selection of Plant Animals is an exciting way to make your own mini zoo.</p>
+<p data-mce-fragment="1">Native to the deserts and grasslands of southern Africa, this playful Meerkat stands poised in your plant pot or terrarium keeping watch!</p>
+<div data-mce-fragment="1">
+<p>The meerkat is one of 22 playful creatures for your houseplants or terrarium. Collect the whole plant gang:</p>
+<p data-mce-fragment="1">Bush Baby • Chameleon • Flying Squirrel • Fox • Frog • Fruit Bat • Koala • Meerkat • Monkey • Orangutang • Owl • Pangolin • Parrot • Praying Mantis • Raccoon • Sloth • Snake • Squirrel • Lemur • Chimpanzee • Damselfly • Flying Lizard</p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Contents</b>: 1 x Brass Plant Animal approx 8L x 1.5W cm<br></p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>Corrosion</span><span> resistant brass</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Packaging:</b> FSC Paper with a biodegradable cellophane wrap - 15 x 5cm <b data-mce-fragment="1"><br data-mce-fragment="1"></b></p>
+<p data-mce-fragment="1"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>houseplant decorations</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plant Animals</s:tag>
+    <s:tag>Plant hangers</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:tag>Wildlife</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2318902493243</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">5.75</s:price>
+      <s:sku>PA-11-MER</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+</feed>

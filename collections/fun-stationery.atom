@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.another-studio.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.another-studio.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.another-studio.com/collections/fun-stationery.atom"/>
+  <title>Another Studio</title>
+  <updated>2021-08-11T16:53:05+01:00</updated>
+  <author>
+    <name>Another Studio</name>
+  </author>
+  <entry>
+    <id>https://www.another-studio.com/products/6592054001782</id>
+    <published>2021-08-11T16:53:05+01:00</published>
+    <updated>2021-08-11T16:53:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/herb-bookmark-chamomile"/>
+    <title>Chamomile Herb Bookmark</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Another-Studio-Chamomile-Herb-Bookmark-Packaging-WO.jpg?v=1628687455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Inspired by dried herbs, the sweet smell and calming properties of Chamomile, our Chamomile bookmark is beautifully etched in steel with daisy-like details, complete with a colourful lime green cord. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Sadly, no smell included! But pair with a good book for a relaxing read. </span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">To use, simply place in your book and drape the cord over a page to mark your place. </span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">If you like this design, take a look at our Lavender and Thyme bookmark!</span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Contents</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">: One steel etched, herb bookmark with colourful cord. </span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Packaging: </b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">100% recycled</span> <span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">FSC paper in a plastic-free cello wrap </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bookmarks</s:tag>
+    <s:tag>Culture</s:tag>
+    <s:tag>herb bookmark</s:tag>
+    <s:tag>stationary</s:tag>
+    <s:tag>stationery</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6592054001782</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">4.95</s:price>
+      <s:sku>HC-2-CHA</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6592053936246</id>
+    <published>2021-08-11T16:53:04+01:00</published>
+    <updated>2021-08-11T16:53:04+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/herb-bookmark-thyme"/>
+    <title>Thyme Herb Bookmark</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Another-Studio-Thyme-Herb-Bookmark-Packaging-WO.jpg?v=1628687442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Inspired by dried herbs, and the delicious and aromatic smell of Thyme, our Thyme bookmark is intricately etched in steel complete with a pink cord. Sadly, no smell included! A great bookmark to mark your place in a recipe book!  </span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">To use, simply place in your book and drape the cord over a page to mark your place. </span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">If you like this design, take a look at our Chamomile and Lavender bookmark!</span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Contents</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">: One steel etched, herb bookmark with colourful cord. </span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Packaging: </b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">100% recycled</span> <span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">FSC paper in a plastic-free cello wrap </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bookmarks</s:tag>
+    <s:tag>herb bookmark</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>stationary</s:tag>
+    <s:tag>stationery</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6592053936246</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">4.95</s:price>
+      <s:sku>HC-3-THY</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6592020709494</id>
+    <published>2021-08-11T16:53:03+01:00</published>
+    <updated>2021-08-11T16:53:03+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/herb-bookmark-lavender"/>
+    <title>Lavender Herb Bookmark</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Another-Studio-Lavender-Herb-Bookmark-Packaging-WO_a3c9c1bc-349c-446e-ae37-35b1ae145764.jpg?v=1628679005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><b data-mce-fragment="1"></b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Inspired by dried herbs, and the soothing smell of Lavender, our Lavender bookmark is beautifully etched in steel, complete with a colourful blue cord. </span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Sadly, no actual smell is included! </span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">To use, simply place in your book and drape the cord over a page to mark your place. </span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">If you like this design, take a look at our Chamomile and Thyme bookmark!</span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Contents</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">: One steel etched, herb bookmark with colourful cord. </span></p>
+<b data-mce-fragment="1">Packaging: </b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% recycled</span> <span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">FSC paper in a plastic-free cello wrap </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bookmark</s:tag>
+    <s:tag>Bookmarks</s:tag>
+    <s:tag>herb bookmark</s:tag>
+    <s:tag>Herbs</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>stationary</s:tag>
+    <s:tag>stationery</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6592020709494</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">4.95</s:price>
+      <s:sku>HC-4-LAV</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6591489966198</id>
+    <published>2021-08-09T11:16:55+01:00</published>
+    <updated>2021-08-09T11:16:55+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tradescantia-bookmark"/>
+    <title>Tradescantia Bookmark</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Bookmarks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Tradescantia-flatlay.jpg?v=1628504948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bookmarks<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Tradescantia bookmark is a fun way to mark the pages of an equally adventurous story.</span></p>
+<p><span>A plant bursting with colour and character. </span><span>It’s zig-zagging stems and spear-shaped leaves grow quickly and everywhere if you don’t watch out!</span></p>
+<p><span>If you like this design, take a look at our <a href="https://www.another-studio.com/collections/plant-gifts/products/golden-pothos-bookmark">Golden Pothos bookmark</a> too!</span></p>
+<p><span><strong>Contents</strong>: 1x hanging bookmark<br><strong>Materials</strong>: Stainless Steel, FSC paper<br><strong>Packaging Dimensions</strong>: 105 x 148mm</span></p>
+<p> </p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bookmark</s:tag>
+    <s:tag>Bookmarks</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:tag>stationary</s:tag>
+    <s:tag>stationery</s:tag>
+    <s:tag>Wildlife</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6591489966198</id>
+      <title>Tradescantia Bookmark</title>
+      <s:price currency="GBP">6.95</s:price>
+      <s:sku>PM-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6583282172022</id>
+    <published>2021-07-15T16:15:39+01:00</published>
+    <updated>2021-07-15T16:15:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/houseplant-bookmarks"/>
+    <title>Houseplant Bookmarks</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/PM3-Houseplant-1000.jpg?v=1626710733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: rgb(33, 43, 54);">A great gift for the indoor gardener or plant lover! This little set of decorative bookmarks feature four favourite indoor house plants: Monstera Delicious, Pilea Peperomioides, Calathea and a Sansevieria.</span><br><br><span style="color: rgb(33, 43, 54);">Made from stainless steel, the bookmarks simple clip onto a page.</span><br><br><span style="color: rgb(33, 43, 54);"><b>Contents:</b> Four page markers</span><br><span style="color: rgb(33, 43, 54);"><b>Materials: </b>Stainless steel, paper</span><br><span style="color: rgb(33, 43, 54);"><b>Packaging Dimensions:</b> 105 x 148mm</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bookmarks</s:tag>
+    <s:tag>houseplant decorations</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:tag>Teachers</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6583282172022</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">7.95</s:price>
+      <s:sku>PM3</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6582423289974</id>
+    <published>2021-07-13T10:15:12+01:00</published>
+    <updated>2021-07-13T10:15:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/insect-bookmarks"/>
+    <title>Insect Bookmarks</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/PM4-Insects-hand-1500_1.jpg?v=1626274958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mark your page with these insect bookmarks design to 1:1 scale.</p>
+<p>This set includes four miniature stainless steel insects, moth, bee, beetle and fly</p>
+<p><strong>Contents: </strong>Insect Bookmark Clips<br><strong>Materials: </strong>Stainless steel, paper<br><strong>Packaging Dimensions: </strong>15 x 11 cm</p><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>bookmarks</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6582423289974</id>
+      <title>Insect Bookmarks</title>
+      <s:price currency="GBP">7.95</s:price>
+      <s:sku>PM4</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6553694044278</id>
+    <published>2021-04-16T16:18:13+01:00</published>
+    <updated>2021-04-16T16:18:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/bauhaus-design-stencil"/>
+    <title>Bauhaus Design stencil</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Stencils</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/AnotherStudio-Bauhaus-Stencil-a4-1500.jpg?v=1618827745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stencils<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Create stylish modernist graphics using this Bauhaus inspired drawing template.</p><p>The Bauhaus was a German Art school which unified fine art, craft and technology. Founded by architect Walter Gropius 1919 it has been, and continues to have a major impact on art trends around the world. </p><p>The Bauhaus style is a landmark of modernism, characterised by simplified forms, geometric abstraction and minimal embellishment.</p><p><strong>Contents: </strong>Design Stencil, instructions, pattern suggestions<br><strong>Materials: </strong>Brass, paper<br><strong>Product Dimensions: </strong>80mm x 195mm<br><strong>Packaging Dimensions: </strong>148mm x 210</p><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>craft</s:tag>
+    <s:tag>drawing</s:tag>
+    <s:tag>Stencils</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6553694044278</id>
+      <title>Bauhaus Design stencil</title>
+      <s:price currency="GBP">12.75</s:price>
+      <s:sku>DS-4</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6549757591670</id>
+    <published>2021-04-08T16:20:40+01:00</published>
+    <updated>2021-04-08T16:20:40+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/art-nouveau-design-stencil-1"/>
+    <title>Art Nouveau Design Stencil</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Stencils</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/AnotherStudio-Art-Nouveau-Stencil_75a05453-92f9-4968-b121-50fffce3a4b0.jpg?v=1617895514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stencils<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Create beautiful stationery with this Art Nouveau inspired drawing template. Stencil the motifs to create bespoke invitations and greeting cards or decorate envelopes, gift wrap or letterheads.</p><p>The style is characterised by undulating lines, curvaceous motifs, asymmetrical shapes and harmonising forms.</p><p><strong>Contents: </strong>Design Stencil, instructions, pattern suggestions<br><strong>Materials: </strong>Brass, paper<br><strong>Product Dimensions: </strong>80mm x 195mm<br><strong>Packaging Dimensions: </strong>148mm x 210mm</p><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6549757591670</id>
+      <title>Default</title>
+      <s:price currency="GBP">12.75</s:price>
+      <s:sku>DS-2</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6549745795190</id>
+    <published>2021-04-08T15:55:31+01:00</published>
+    <updated>2021-04-08T15:55:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/art-deco-design-stencil"/>
+    <title>Art Deco Design Stencil</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/AnotherStudio-Art-Deco-Stencil-Plants-1500.jpg?v=1628504562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-excerpt" data-content-field="excerpt" data-mce-fragment="1">Create your own stylish invitations, greeting cards and stationery using this 1920s inspired drawing template. Use the stencil to draw bold geometric patterns; design invitations and greeting cards, decorate envelopes or fashion some trendy gift wrap.</div>
+<div class="product-excerpt" data-content-field="excerpt" data-mce-fragment="1">
+<div class="product-excerpt" data-content-field="excerpt" data-mce-fragment="1">
+<p data-mce-fragment="1">This dynamic artistic style is characterised by bold geometric forms, symmetrical patterns, contrasting colours and lavish ornamentation.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Contents: </strong>Brass<strong data-mce-fragment="1"> </strong>Design Stencil, with instructions, including pattern ideas<br data-mce-fragment="1"><strong data-mce-fragment="1">Product Dimensions: </strong>20 x 8.5 cm<br data-mce-fragment="1"><strong data-mce-fragment="1">Packaging Dimensions: </strong>22.5 x 16 cm</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6549745795190</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">12.75</s:price>
+      <s:sku>DS-1</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6543703638134</id>
+    <published>2021-03-19T17:28:39+00:00</published>
+    <updated>2021-03-19T17:28:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tropical-bird-bookmarks"/>
+    <title>Tropical Bird Bookmarks</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Bookmarks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/tropical-bird-hand.jpg?v=1623924729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bookmarks<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brighten up your paperwork, files and books with our tropical bird bookmarks.<br><br>The four piece set includes a Toucan, Macaw, Lovebird and Hummingbird, all beautifully etched in steel. Simply slide them onto the top of your page!<br><br><strong>Contents:</strong> Four page markers<br><strong>Materials:</strong> Stainless steel, paper <br><strong>Packaging Dimensions:</strong> 105 x 148mm<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>bird</s:tag>
+    <s:tag>Bookmarks</s:tag>
+    <s:tag>Wildlife</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6543703638134</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">7.95</s:price>
+      <s:sku>PM6-BIRDS</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/4399017689206</id>
+    <published>2020-01-23T10:32:18+00:00</published>
+    <updated>2020-01-23T10:32:18+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/leaf-bookmarks"/>
+    <title>Leaf Bookmark Set</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/AnotherStudio-Silver-Leaf-Bookmarks-1500.jpg?v=1622556046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A beautiful set of etched leaf bookmarks. </span></p>
+<p><span>Featuring four unique leaves: Maranta Leuconeuraia, Peperomia Argyreia, Caladium bicolour and the Begonia Maculata.</span></p>
+<p><span>Etched in stainless steel or brass, they simply clip onto your page or file </span><span>and protected with biodegradable clear sleeve</span></p>
+<p> </p>
+<p><b>Contents: </b>Four page markers<br><b>Materials:<span> </span></b><span>Stainless steel, biodegradable sleeve</span><br><b>Packaging Dimensions: </b><span>175 x 124mm</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bookmarks</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/4399017689206</id>
+      <title>Brass</title>
+      <s:price currency="GBP">9.50</s:price>
+      <s:sku>PM-13</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.another-studio.com/products/4399017689206</id>
+      <title>Stainless Steel</title>
+      <s:price currency="GBP">9.50</s:price>
+      <s:sku>PM-12</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2190957871163</id>
+    <published>2019-04-10T16:51:05+01:00</published>
+    <updated>2019-04-10T16:51:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/golden-pothos-bookmark"/>
+    <title>Golden Pothos Bookmark</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/green-packaging-1000sq.jpg?v=1618317917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautifully etched in steel, this bookmark trails down to bring a tropical touch to any page.</p>
+<p>Glossy green leaves and a hint of gold transform homes into urban jungles. This sturdy plant is a fast grower and easy to look after.</p>
+<p>If you like this design, take a look at<span> </span>our <span style="text-decoration: underline;"><a href="https://www.another-studio.com/collections/shop/products/trandescantia-bookmark">Tradescantia bookmark</a></span> too!</p>
+<p><span style="font-weight: 400;"><strong>Contents</strong><span>: One hanging bookmark</span><br><strong>Materials</strong><span>: Stainless Steel, FSC paper</span><br><strong>Packaging Dimensions</strong><span>: 105 x 148mm</span></span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bookmarks</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2190957871163</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">6.95</s:price>
+      <s:sku>PM-11</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/642829746235</id>
+    <published>2018-05-03T10:59:18+01:00</published>
+    <updated>2018-05-03T10:59:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/london-panoramic-map"/>
+    <title>London Panoramic Map</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/river-map-1500.jpg?v=1602158803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A beautifully illustrated map of London's Thames.</p>
+<p>The fold-out map features over 100 buildings situated on the north and south banks between Tower Bridge and the Houses of Parliament. The architectural history of each building is plotted on the reverse, uncovering some forgotten stories and fascinating facts.</p>
+<p>The rivers prominence within the capital city has ebbed and flowed through history with the architecture reflecting the evolution of changing lifestyles, technology and design.</p>
+<p>Take a stroll along the riverbanks with our map as your guide, display it as a beautiful print or send as a souvenir to a fellow lover of London</p>
+<p><strong>Contents</strong>: Architectural map<br><strong>Materials</strong>: Paper<br><strong>Product Dimensions</strong>: 210 x 105mm<br><strong>Packaging Dimensions</strong>: 210 x 105 x 5mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Architecture</s:tag>
+    <s:tag>London</s:tag>
+    <s:tag>Map</s:tag>
+    <s:tag>Men</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/642829746235</id>
+      <title>London Panoramic Map</title>
+      <s:price currency="GBP">5.00</s:price>
+      <s:sku>RM-PANO</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/626868060219</id>
+    <published>2018-04-25T14:53:42+01:00</published>
+    <updated>2018-04-25T14:53:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/london-icon-bookmarks"/>
+    <title>London Icon Bookmarks</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/london_face_on_sq.jpg?v=1571725609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Top your books and files with a tiny piece of London's heritage - a great little gift for every London lover.</p>
+<p>This London Icons set includes four stainless steel bookmarks; a miniature Black Cab, Post Box, Telephone Box and the famous Double-decker Bus.</p>
+<p><strong>Contents: </strong>Four page markers<br><strong>Materials: </strong>Stainless steel, paper<br><strong>Packaging Dimensions: </strong>105 x 148mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bookmarks</s:tag>
+    <s:tag>London</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/626868060219</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">3.97</s:price>
+      <s:sku>PM2</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+</feed>

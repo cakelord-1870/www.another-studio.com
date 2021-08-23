@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.another-studio.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.another-studio.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.another-studio.com/collections/diy-crafting.atom"/>
+  <title>Another Studio</title>
+  <updated>2021-08-18T16:42:05+01:00</updated>
+  <author>
+    <name>Another Studio</name>
+  </author>
+  <entry>
+    <id>https://www.another-studio.com/products/6594782330998</id>
+    <published>2021-08-18T16:42:05+01:00</published>
+    <updated>2021-08-18T16:42:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/mini-model-hot-balloon"/>
+    <title>Balloon Mini Model</title>
+    <s:type>Terrarium Decoration</s:type>
+    <s:vendor>Mini Model</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/mini-balloon-hand.jpg?v=1629302308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Model<br>
+        <strong>Type: </strong>Terrarium Decoration<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get away from it all with this tiny hot air balloon - one of eleven designs in the range of Mini Models.</p>
+<p>Each pack contains one brass model with step by step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions: </strong>30 x 34 x 38mm<br><strong>Packaging Dimensions:</strong> 12.5 x 17.5cm<br><strong>Product Weight: </strong>10g</p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diy</s:tag>
+    <s:tag>houseplant decorations</s:tag>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Travel</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6594782330998</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">9.95</s:price>
+      <s:sku>MINI-03-BALLOON-TR</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6592027132022</id>
+    <published>2021-08-11T12:13:03+01:00</published>
+    <updated>2021-08-11T12:13:03+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/submarine-mini-model"/>
+    <title>Submarine Mini Model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Mini Model</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Submarine-glass-1500.jpg?v=1628680828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Model<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p id="yui_3_17_2_1_1524668794779_1426">Own your own tiny submarine with this miniature model kit. Packed flat, it's an easy to post gift for any nautical lover.</p>
+<p id="yui_3_17_2_1_1524666823634_894">Each pack contains one brass flat pack model with step by step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers will be helpful.</p>
+<p>This tiny object of desire is one of eleven designs in the range of mini-onaires.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions: </strong>48 x 24 x 34mm<br><strong>Packaging Dimensions:</strong> 10.5 x 10.5cm<br><strong>Product Weight: </strong>10g</p><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Architecture</s:tag>
+    <s:tag>Decoration</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Plant hangers</s:tag>
+    <s:tag>Travel</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6592027132022</id>
+      <title>Submarine Mini Model</title>
+      <s:price currency="GBP">10.50</s:price>
+      <s:sku>MINI-06-SUBMARINE</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6592027033718</id>
+    <published>2021-08-11T12:12:30+01:00</published>
+    <updated>2021-08-11T12:12:30+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/castle-mini-model"/>
+    <title>Castle Mini Model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Mini Model</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Mini-model-Castle_plant-1500.jpg?v=1628680640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Model<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p id="yui_3_17_2_1_1524751479965_805">Feel like a mini millionaire with this tiny object of desire! Be the ruler of your own tiny kingdom with this castle. A perfect little edition to add to your shelf, terrarium or plant pot!</p>
+<p>Each pack contains one brass model with step by step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions:</strong> 30 x 32 x 35mm<br><strong>Packaging Dimensions:</strong> 10.5 x 10.5cm<br><strong>Product Weight: </strong>10g</p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Architecture</s:tag>
+    <s:tag>castle</s:tag>
+    <s:tag>London</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrarium decor</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6592027033718</id>
+      <title>Castle Mini Model</title>
+      <s:price currency="GBP">10.50</s:price>
+      <s:sku>MINI-02-CASTLE</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6591605702774</id>
+    <published>2021-08-09T16:50:54+01:00</published>
+    <updated>2021-08-09T16:50:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/globe-mini-model"/>
+    <title>Globe Mini Model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Mini Model</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Globe-violet-1500.jpg?v=1628680326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Model<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The world is your oyster with this micro-globe model!</p>
+<p id="yui_3_17_2_1_1524666823634_894">Each pack contains one brass flat pack model with step by step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p>This tiny object of desire is one of eleven designs in the range of mini-onaires.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions: </strong>30 x 35 x 42mm<br><strong>Packaging Dimensions:</strong> 10.5 x 10.5cm<br><strong>Product Weight: </strong>10g</p><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Teachers</s:tag>
+    <s:tag>Travel</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6591605702774</id>
+      <title>Globe Mini Model</title>
+      <s:price currency="GBP">5.25</s:price>
+      <s:sku>MINI-10-GLOBE</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6581289779318</id>
+    <published>2021-07-09T16:47:31+01:00</published>
+    <updated>2021-07-09T16:47:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/boat-mini-model-1"/>
+    <title>Boat Mini Model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Mini Model</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Boat-2-square-1500_1.jpg?v=1626275319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Model<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set sail on the Seven Seas with our Minimodel boat! Our little Ship doesn’t float so you won’t get suck in the Doldrums. Place your boat on a windowsill and watch her sail the skies. Pirate flag not included.</p>
+<p><br data-mce-fragment="1">Pair with our MINImodel submarine for the full Nautical experience. <br data-mce-fragment="1">Instructions included, simply fold the metal into shape, gently bend the sails for the impression of a windy sea. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p><br data-mce-fragment="1"><strong>Contents</strong>: 1x brass coated model - 40 x 18 x 54mm  </p>
+<p><strong>Packaging</strong>: 100% recycled FSC paper with a biodegradable cellophane wrap - 105 x 105mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6581289779318</id>
+      <title>1</title>
+      <s:price currency="GBP">10.50</s:price>
+      <s:sku>MINI-09-BOAT</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6581279883382</id>
+    <published>2021-07-09T16:03:06+01:00</published>
+    <updated>2021-07-09T16:03:06+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/house-mini-model"/>
+    <title>House Mini Model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Mini Model</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/AnotherStudio-Mini-Model-House-London-Terrarium-1500.jpg?v=1626275156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Model<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A house you can finally afford! This miniature house model is a fun lightweight gift to send in the post. Perfect to decorate a plant or terrarium. </p>
+<p>Each pack contains one flat-pack brass model with step-by-step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions: </strong>24 x 20 x 27mm<br><strong>Packaging Dimensions:</strong> 10.5 x 10.5cm<br><strong>Product Weight: </strong>10g</p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Architecture</s:tag>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrarium decor</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6581279883382</id>
+      <title>House Mini Model</title>
+      <s:price currency="GBP">10.50</s:price>
+      <s:sku>MINI-01-HOUSE</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6553694044278</id>
+    <published>2021-04-16T16:18:13+01:00</published>
+    <updated>2021-04-16T16:18:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/bauhaus-design-stencil"/>
+    <title>Bauhaus Design stencil</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Stencils</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/AnotherStudio-Bauhaus-Stencil-a4-1500.jpg?v=1618827745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stencils<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Create stylish modernist graphics using this Bauhaus inspired drawing template.</p><p>The Bauhaus was a German Art school which unified fine art, craft and technology. Founded by architect Walter Gropius 1919 it has been, and continues to have a major impact on art trends around the world. </p><p>The Bauhaus style is a landmark of modernism, characterised by simplified forms, geometric abstraction and minimal embellishment.</p><p><strong>Contents: </strong>Design Stencil, instructions, pattern suggestions<br><strong>Materials: </strong>Brass, paper<br><strong>Product Dimensions: </strong>80mm x 195mm<br><strong>Packaging Dimensions: </strong>148mm x 210</p><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>craft</s:tag>
+    <s:tag>drawing</s:tag>
+    <s:tag>Stencils</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6553694044278</id>
+      <title>Bauhaus Design stencil</title>
+      <s:price currency="GBP">12.75</s:price>
+      <s:sku>DS-4</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6549757591670</id>
+    <published>2021-04-08T16:20:40+01:00</published>
+    <updated>2021-04-08T16:20:40+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/art-nouveau-design-stencil-1"/>
+    <title>Art Nouveau Design Stencil</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Stencils</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/AnotherStudio-Art-Nouveau-Stencil_75a05453-92f9-4968-b121-50fffce3a4b0.jpg?v=1617895514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stencils<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Create beautiful stationery with this Art Nouveau inspired drawing template. Stencil the motifs to create bespoke invitations and greeting cards or decorate envelopes, gift wrap or letterheads.</p><p>The style is characterised by undulating lines, curvaceous motifs, asymmetrical shapes and harmonising forms.</p><p><strong>Contents: </strong>Design Stencil, instructions, pattern suggestions<br><strong>Materials: </strong>Brass, paper<br><strong>Product Dimensions: </strong>80mm x 195mm<br><strong>Packaging Dimensions: </strong>148mm x 210mm</p><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6549757591670</id>
+      <title>Default</title>
+      <s:price currency="GBP">12.75</s:price>
+      <s:sku>DS-2</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6549745795190</id>
+    <published>2021-04-08T15:55:31+01:00</published>
+    <updated>2021-04-08T15:55:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/art-deco-design-stencil"/>
+    <title>Art Deco Design Stencil</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/AnotherStudio-Art-Deco-Stencil-Plants-1500.jpg?v=1628504562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-excerpt" data-content-field="excerpt" data-mce-fragment="1">Create your own stylish invitations, greeting cards and stationery using this 1920s inspired drawing template. Use the stencil to draw bold geometric patterns; design invitations and greeting cards, decorate envelopes or fashion some trendy gift wrap.</div>
+<div class="product-excerpt" data-content-field="excerpt" data-mce-fragment="1">
+<div class="product-excerpt" data-content-field="excerpt" data-mce-fragment="1">
+<p data-mce-fragment="1">This dynamic artistic style is characterised by bold geometric forms, symmetrical patterns, contrasting colours and lavish ornamentation.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Contents: </strong>Brass<strong data-mce-fragment="1"> </strong>Design Stencil, with instructions, including pattern ideas<br data-mce-fragment="1"><strong data-mce-fragment="1">Product Dimensions: </strong>20 x 8.5 cm<br data-mce-fragment="1"><strong data-mce-fragment="1">Packaging Dimensions: </strong>22.5 x 16 cm</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6549745795190</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">12.75</s:price>
+      <s:sku>DS-1</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2249502392379</id>
+    <published>2019-05-22T09:36:33+01:00</published>
+    <updated>2019-05-22T09:36:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tiny-trophies-utterly-gorgeous"/>
+    <title>Tiny Trophies - Utterly Gorgeous</title>
+    <s:type>Fun Gifts</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Utterly-Gorgeous-1500.jpg?v=1571725611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Fun Gifts<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiny Trophies are the perfect excuse for you to celebrate the people in your life - family, friends, a colleague - and share what they mean to you. Fun and playful, these miniature brass awards are a great gift to highlight a person’s qualities and let slip what you admire and love about them the most.</p>
+<p>Each Tiny Trophy is easy to assemble, the base of the trophy simply folding to stand upright. Lightweight and packed flat, these cute, little awards are easy gifts to send in the post.</p>
+<p><span style="font-weight: 400;"><span><strong>Contents</strong>: Tiny Trophy<br><strong>Materials</strong>: Paper, Brass<br><strong>Packaging Dimensions</strong>: </span></span>52mm x 148mm<br><strong>Product Dimensions:</strong> 45 x 25 x 10mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Tiny Trophies</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2249502392379</id>
+      <title>Utterly Gorgeous</title>
+      <s:price currency="GBP">2.25</s:price>
+      <s:sku>TT-4</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2249502228539</id>
+    <published>2019-05-22T09:36:20+01:00</published>
+    <updated>2019-05-22T09:36:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tiny-trophies-my-super-hero"/>
+    <title>Tiny Trophies - My Super hero</title>
+    <s:type>Fun Gifts</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/My-super-hero-1500.jpg?v=1571725611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Fun Gifts<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiny Trophies are the perfect excuse for you to celebrate the people in your life - family, friends, a colleague - and share what they mean to you. Fun and playful, these miniature brass awards are a great gift to highlight a person’s qualities and let slip what you admire and love about them the most.</p>
+<p>Each Tiny Trophy is easy to assemble, the base of the trophy simply folding to stand upright. Lightweight and packed flat, these cute, little awards are easy gifts to send in the post.</p>
+<p><span style="font-weight: 400;"><span><strong>Contents</strong>: Tiny Trophy<br><strong>Materials</strong>: Paper, Brass<br><strong>Packaging Dimensions</strong>: 52 x 148mm</span></span><span style="font-weight: 400;"><br><span><strong>Product Dimensions:</strong> 40 x 34 x 10mm</span></span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Tiny Trophies</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2249502228539</id>
+      <title>My Super Hero</title>
+      <s:price currency="GBP">2.25</s:price>
+      <s:sku>TT-2</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2249502097467</id>
+    <published>2019-05-22T09:36:13+01:00</published>
+    <updated>2019-05-22T09:36:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tiny-trophies-most-thoughtful"/>
+    <title>Tiny Trophies - Most Thoughtful</title>
+    <s:type>Fun Gifts</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Most-thoughtful-1500.jpg?v=1571725611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Fun Gifts<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiny Trophies are the perfect excuse for you to celebrate the people in your life - family, friends, a colleague - and share what they mean to you. Fun and playful, these miniature brass awards are a great gift to highlight a person’s qualities and let slip what you admire and love about them the most.</p>
+<p>Each Tiny Trophy is easy to assemble, the base of the trophy simply folding to stand upright. Lightweight and packed flat, these cute, little awards are easy gifts to send in the post.</p>
+<p><span style="font-weight: 400;"><span><strong>Contents</strong>: Tiny Trophy<br><strong>Materials</strong>: Paper, Brass<br><span style="font-weight: 400;"><span><strong>Packaging Dimensions</strong>: 52mm x 148mm <br><strong>Product Dimensions: </strong>40 x 25 x 10mm<br></span></span></span></span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Tiny Trophies</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2249502097467</id>
+      <title>Most Thoughtful</title>
+      <s:price currency="GBP">2.25</s:price>
+      <s:sku>TT-5</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2249501868091</id>
+    <published>2019-05-22T09:36:01+01:00</published>
+    <updated>2019-05-22T09:36:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tiny-trophies-all-round-entertainer"/>
+    <title>Tiny Trophies - All Round Entertainer</title>
+    <s:type>Fun Gifts</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/All-round-entertainer-1200_b4fa7b52-8ca5-4ece-8fac-c9e0a41d3209.jpg?v=1571725610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Fun Gifts<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiny Trophies are the perfect excuse for you to celebrate the people in your life - family, friends, a colleague - and share what they mean to you. Fun and playful, these miniature brass awards are a great gift to highlight a person’s qualities and let slip what you admire and love about them the most.</p>
+<p>Each Tiny Trophy is easy to assemble, the base of the trophy simply folding to stand upright. Lightweight and packed flat, these cute, little awards are easy gifts to send in the post.</p>
+<p><span style="font-weight: 400;"><span><strong>Contents</strong>: Tiny Trophy<br><strong>Materials</strong>: Paper, Brass</span></span><span style="font-weight: 400;"><span><br><strong>Packaging Dimensions</strong>: </span></span>52mm x 148mm <br><strong>Product Dimensions: </strong>35 x 30 x 10mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Tiny Trophies</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2249501868091</id>
+      <title>All Round Entertainer</title>
+      <s:price currency="GBP">2.25</s:price>
+      <s:sku>TT-3</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/627193741371</id>
+    <published>2018-04-25T13:24:52+01:00</published>
+    <updated>2018-04-25T13:24:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/crown-minionaire"/>
+    <title>Crown mini model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Crown-miniature.jpg?v=1571725609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-excerpt" data-content-field="excerpt">
+<p>A cute little dolls size crown for the special Prince, Princess, King or Queen in your life.</p>
+<p>Each pack contains one brass model with step by step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions:</strong> 38 x 38 x 40mm<br><strong>Packaging Dimensions:</strong> 105 x 105mm<br><strong>Product Weight: </strong>10g</p>
+<p><br></p>
+</div>
+<div class="product-quantity-input" data-item-id="5734885a07eaa04da4988920"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>king</s:tag>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>queen</s:tag>
+    <s:tag>royal</s:tag>
+    <s:tag>Teachers</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/627193741371</id>
+      <title>Crown mini model</title>
+      <s:price currency="GBP">5.25</s:price>
+      <s:sku>MINI-04-CROWN</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/627096780859</id>
+    <published>2018-04-25T13:24:52+01:00</published>
+    <updated>2018-04-25T13:24:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/cocktail-minionaire"/>
+    <title>Cocktail mini model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Cocktail-glass-model.jpg?v=1571725609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Send a celebratory gift to make your own cocktail kit. Alcohol-free fun and a cute gift idea for party lovers.</p>
+<p>Each pack contains one brass model with step by step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions: </strong>40 x 45 x 25mm<strong><br>Packaging Dimensions:</strong> 105 x 105mm<br><strong>Product Weight: </strong>10g</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Teachers</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/627096780859</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">5.25</s:price>
+      <s:sku>MINI-08-COCKTAIL</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/627068207163</id>
+    <published>2018-04-25T13:24:52+01:00</published>
+    <updated>2018-04-25T13:24:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/car-minionaire"/>
+    <title>Racing Car mini model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Car-minionaire.jpg?v=1597321325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Own the classic car of your dreams with this miniature DIY model kit.</p>
+<p>Each pack contains one brass model with step by step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions: </strong>48 x 20 x 18mm<br><strong>Packaging Dimensions:</strong> 105 x 105mm<br><strong>Product Weight: </strong>10g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Travel</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/627068207163</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">10.50</s:price>
+      <s:sku>MINI-07-CAR</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/639256395835</id>
+    <published>2018-04-25T10:08:59+01:00</published>
+    <updated>2018-04-25T10:08:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/monumini-battersea-building-kit"/>
+    <title>MONUmini Battersea Power Station</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/high_res.jpg?v=1622629766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MONUmini is an iconic architectural model of Battersea Power Station; an immense building covering some 160m x 170m.</p>
+<p>The kit includes a sheet of etched stainless steel pieces, which fold and lock together to create the miniature structure. It also includes step-by-step assembly instructions and a short building history all packed into an envelope making them a great, easy-to-post, souvenir. </p>
+<p>This is not a toy - the product contains sharp edges and is not suitable for young children.</p>
+<p><strong>Contents:</strong> metal model, instructions, building history<br><strong>Materials: </strong>Stainless steel, paper<br><strong>Product Dimensions:</strong> 100 x 80 x 60mm<br><strong>Packaging Dimensions: </strong>165 x 230mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Architecture</s:tag>
+    <s:tag>London</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>MONUmini</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/639256395835</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">8.25</s:price>
+      <s:sku>MM-4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/624307339323</id>
+    <published>2018-04-25T10:08:59+01:00</published>
+    <updated>2018-04-25T10:08:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tower-bridge-monumini"/>
+    <title>MONUmini Tower Bridge</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/MONUmini-Tower-Bridge-2000-web.jpg?v=1622629770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MONUmini is an architectural model kit; a perfect memento or a fun gift for any design enthusiast or architect.</p>
+<p>The kit includes a sheet of etched stainless steel pieces, which fold and lock together to create the miniature structure. It also includes step-by-step assembly instructions and a short building history all packed into an envelope making them a great, easy-to-post, souvenir.</p>
+<p>Constructed in 1890's, Tower Bridge is a combined bascule and suspension bridge over the River Thames in London.</p>
+<p>This is not a toy - the product contains sharp edges and is not suitable for children.</p>
+<p id="yui_3_17_2_1_1524647418841_866"><strong>Contents: </strong>metal model, instructions, building history<br><strong>Materials: </strong>Stainless steel, paper<br><strong>Product Dimensions: </strong>170 x 40 x 50mm<br><strong>Packaging Dimensions: </strong>165 x 230mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Architecture</s:tag>
+    <s:tag>London</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>MONUmini</s:tag>
+    <s:tag>Teachers</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/624307339323</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">8.25</s:price>
+      <s:sku>MM-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

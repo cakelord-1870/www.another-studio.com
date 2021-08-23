@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.another-studio.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.another-studio.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.another-studio.com/collections/plant-care.atom"/>
+  <title>Another Studio</title>
+  <updated>2021-07-09T16:27:36+01:00</updated>
+  <author>
+    <name>Another Studio</name>
+  </author>
+  <entry>
+    <id>https://www.another-studio.com/products/6581284536438</id>
+    <published>2021-07-09T16:27:36+01:00</published>
+    <updated>2021-07-09T16:27:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/plant-flags"/>
+    <title>Plant Flags</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Plant-Post_Group_2_lowres-1500_1.jpg?v=1629376773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: rgb(33, 43, 54);">Plant Flags for your potted plants! </span><br><br><span style="color: rgb(33, 43, 54);">Our plant flags come in a set for three. Each flag is individually detailed, etched in brass and complete with wire posts and blank labels. Stand them in your plant pots and use them as reminders for care tips, plant identification, and more.</span><br><br><span style="color: rgb(33, 43, 54);">Dimensions: 125 x 175mm</span><br><span style="color: rgb(33, 43, 54);">Contents: Three plant flags complete with frame, wire, and labels</span><br><span style="color: rgb(33, 43, 54);">Material: Brass, Paper coated metal wire, Paper, biodegradable packaging.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flags</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>lables</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6581284536438</id>
+      <title>Plant Flags</title>
+      <s:price currency="GBP">9.95</s:price>
+      <s:sku>PF-1</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/4563727089782</id>
+    <published>2020-09-23T11:32:37+01:00</published>
+    <updated>2020-09-23T11:32:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/herb-care-cards"/>
+    <title>Herb Care Cards</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Herb-Care-Cards_Box_Front_lowres_1500.jpg?v=1629376664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The ultimate guide to growing and getting the most out of your Herbs! Herb Care Cards are a boxed gift set containing 35 cards packed full of easy-to-follow advice and top tips for becoming a successful botanist. <br><br>Learn the basics:<br>-Propagation: How and when to grow.<br>-Eat &amp; Drink: The many exciting ways you can use your herbs.<br>-Pruning: How to prune efficiently and encourage new growth.<br>-Harvest &amp; Preserving: Getting the most out of your yield. <br><br>Unhappy Plant? <br>These care cards will help identify problems for specific plants and suggest ways to treat the issue.<br><br>Herbs featured include; Alpine Strawberry, Basil, Borage, Chamomile, Chervil, Chives, Coriander, Dill, Lavender, Fennel, Tarragon, Geranium, Hyssop, Lady’s Mantle, Lemon Balm, Lemongrass, Lemon Verbena, Lovage, Marigold, Mint, Nasturtium, Oregano, Parsley, Rosemary, Sage, Salad Burnet, Sorrel, Savory, Thyme, Vietnamese Coriander.<br><br>Dimensions: 130h x 98 x 27mm<br>Weight: 220 grams<br>Contents: Boxed gift set featuring, 32 popular herb care guides+ 5 cards featuring essential basic advice.<br>Material: Paperboard</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Care Cards</s:tag>
+    <s:tag>Herbs</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/4563727089782</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">12.95</s:price>
+      <s:sku>HC-1</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/1509051105339</id>
+    <published>2018-05-03T10:59:18+01:00</published>
+    <updated>2018-05-03T10:59:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/houseplant-care-cards"/>
+    <title>Houseplant Care Cards</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Care-Cards-low-res-1000.jpg?v=1629384854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong></strong>The ultimate guide to growing happy plants! Houseplant Care Cards are a boxed gift set containing 35 cards packed full of advice and tips for botanical success indoors.</p>
+<p>Learn the basics:<br>- Water: How and when to water your plants.<br>- Light: Where to locate your plants.<br>- Root Rot: What is it and how to prevent it.<br>- Humidity: Creating the perfect environment.<br>- Repotting: Top tips to master.</p>
+<p>Unhappy Plant? <br>These care cards will help identify problems for specific plants and suggest ways to treat the issue.</p>
+<p><strong></strong><strong>Dimensions:</strong> 130h x 98 x 27mm<br> <strong>Weight: </strong><span>220 grams</span><br><strong>Contents: </strong>Boxed gift set featuring, 32 popular houseplants care guides+ 3 cards featuring essential basic advice.<br><strong>Material: </strong>Paperboard</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/1509051105339</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">12.95</s:price>
+      <s:sku>HP-1</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

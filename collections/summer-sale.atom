@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.another-studio.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.another-studio.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.another-studio.com/collections/summer-sale.atom"/>
+  <title>Another Studio</title>
+  <updated>2019-05-22T09:36:33+01:00</updated>
+  <author>
+    <name>Another Studio</name>
+  </author>
+  <entry>
+    <id>https://www.another-studio.com/products/2249502392379</id>
+    <published>2019-05-22T09:36:33+01:00</published>
+    <updated>2019-05-22T09:36:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tiny-trophies-utterly-gorgeous"/>
+    <title>Tiny Trophies - Utterly Gorgeous</title>
+    <s:type>Fun Gifts</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Utterly-Gorgeous-1500.jpg?v=1571725611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Fun Gifts<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiny Trophies are the perfect excuse for you to celebrate the people in your life - family, friends, a colleague - and share what they mean to you. Fun and playful, these miniature brass awards are a great gift to highlight a person’s qualities and let slip what you admire and love about them the most.</p>
+<p>Each Tiny Trophy is easy to assemble, the base of the trophy simply folding to stand upright. Lightweight and packed flat, these cute, little awards are easy gifts to send in the post.</p>
+<p><span style="font-weight: 400;"><span><strong>Contents</strong>: Tiny Trophy<br><strong>Materials</strong>: Paper, Brass<br><strong>Packaging Dimensions</strong>: </span></span>52mm x 148mm<br><strong>Product Dimensions:</strong> 45 x 25 x 10mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Tiny Trophies</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2249502392379</id>
+      <title>Utterly Gorgeous</title>
+      <s:price currency="GBP">2.25</s:price>
+      <s:sku>TT-4</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2249502228539</id>
+    <published>2019-05-22T09:36:20+01:00</published>
+    <updated>2019-05-22T09:36:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tiny-trophies-my-super-hero"/>
+    <title>Tiny Trophies - My Super hero</title>
+    <s:type>Fun Gifts</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/My-super-hero-1500.jpg?v=1571725611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Fun Gifts<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiny Trophies are the perfect excuse for you to celebrate the people in your life - family, friends, a colleague - and share what they mean to you. Fun and playful, these miniature brass awards are a great gift to highlight a person’s qualities and let slip what you admire and love about them the most.</p>
+<p>Each Tiny Trophy is easy to assemble, the base of the trophy simply folding to stand upright. Lightweight and packed flat, these cute, little awards are easy gifts to send in the post.</p>
+<p><span style="font-weight: 400;"><span><strong>Contents</strong>: Tiny Trophy<br><strong>Materials</strong>: Paper, Brass<br><strong>Packaging Dimensions</strong>: 52 x 148mm</span></span><span style="font-weight: 400;"><br><span><strong>Product Dimensions:</strong> 40 x 34 x 10mm</span></span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Tiny Trophies</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2249502228539</id>
+      <title>My Super Hero</title>
+      <s:price currency="GBP">2.25</s:price>
+      <s:sku>TT-2</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2249502097467</id>
+    <published>2019-05-22T09:36:13+01:00</published>
+    <updated>2019-05-22T09:36:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tiny-trophies-most-thoughtful"/>
+    <title>Tiny Trophies - Most Thoughtful</title>
+    <s:type>Fun Gifts</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Most-thoughtful-1500.jpg?v=1571725611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Fun Gifts<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiny Trophies are the perfect excuse for you to celebrate the people in your life - family, friends, a colleague - and share what they mean to you. Fun and playful, these miniature brass awards are a great gift to highlight a person’s qualities and let slip what you admire and love about them the most.</p>
+<p>Each Tiny Trophy is easy to assemble, the base of the trophy simply folding to stand upright. Lightweight and packed flat, these cute, little awards are easy gifts to send in the post.</p>
+<p><span style="font-weight: 400;"><span><strong>Contents</strong>: Tiny Trophy<br><strong>Materials</strong>: Paper, Brass<br><span style="font-weight: 400;"><span><strong>Packaging Dimensions</strong>: 52mm x 148mm <br><strong>Product Dimensions: </strong>40 x 25 x 10mm<br></span></span></span></span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Tiny Trophies</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2249502097467</id>
+      <title>Most Thoughtful</title>
+      <s:price currency="GBP">2.25</s:price>
+      <s:sku>TT-5</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2249501868091</id>
+    <published>2019-05-22T09:36:01+01:00</published>
+    <updated>2019-05-22T09:36:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tiny-trophies-all-round-entertainer"/>
+    <title>Tiny Trophies - All Round Entertainer</title>
+    <s:type>Fun Gifts</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/All-round-entertainer-1200_b4fa7b52-8ca5-4ece-8fac-c9e0a41d3209.jpg?v=1571725610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Fun Gifts<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiny Trophies are the perfect excuse for you to celebrate the people in your life - family, friends, a colleague - and share what they mean to you. Fun and playful, these miniature brass awards are a great gift to highlight a person’s qualities and let slip what you admire and love about them the most.</p>
+<p>Each Tiny Trophy is easy to assemble, the base of the trophy simply folding to stand upright. Lightweight and packed flat, these cute, little awards are easy gifts to send in the post.</p>
+<p><span style="font-weight: 400;"><span><strong>Contents</strong>: Tiny Trophy<br><strong>Materials</strong>: Paper, Brass</span></span><span style="font-weight: 400;"><span><br><strong>Packaging Dimensions</strong>: </span></span>52mm x 148mm <br><strong>Product Dimensions: </strong>35 x 30 x 10mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Tiny Trophies</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2249501868091</id>
+      <title>All Round Entertainer</title>
+      <s:price currency="GBP">2.25</s:price>
+      <s:sku>TT-3</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2229884452923</id>
+    <published>2019-04-29T13:29:53+01:00</published>
+    <updated>2019-04-29T13:29:53+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/plant-award-thriving"/>
+    <title>Plant Award - Thriving</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/P-AW-Thriving-plant-1500.jpg?v=1571725610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            2.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate all your plants achievements with these prized rosettes.</p>
+<p>Plant Awards are fun miniature brass rosettes to recognise your skills in plant care. Decorate their leaves or pots and maybe your other plants will start behaving too!</p>
+<p>There are 6 rosettes in the collection: New Leaf, Thriving, Still Alive, Plant Goals, Surviving and Dream Plant.</p>
+<p>Etched in metal with a beautiful gold string to attach to your plants.</p>
+<p><strong>Contents</strong>: One metal rosette, gold thread<br><strong>Materials</strong>: Brass, FSC paper<br><strong>Packaging Dimensions</strong>: 52 x 148mm<br><strong>Product Dimensions: </strong>65 x 38mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2229884452923</id>
+      <title>Plant Award - Thriving</title>
+      <s:price currency="GBP">2.85</s:price>
+      <s:sku>AW-6</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2229884256315</id>
+    <published>2019-04-29T13:28:50+01:00</published>
+    <updated>2019-04-29T13:28:50+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/plant-award-new-leaf"/>
+    <title>Plant Award - New Leaf</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/P-AW-New-leaf-white-1500.jpg?v=1571820935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            2.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate all your plants' achievements with these prized rosettes.</p>
+<p>Plant Awards are fun miniature brass rosettes to recognise your skills in plant care. Decorate their leaves or pots and maybe your other plants will start behaving too!</p>
+<p>There are 6 rosettes in the collection: New Leaf, Thriving, Still Alive, Plant Goals, Surviving and Dream Plant.</p>
+<p>Etched in metal with a beautiful gold string to attach to your plants.</p>
+<p><strong>Contents</strong>: One metal rosette, gold thread<br><strong>Materials</strong>: Brass, FSC paper<br><strong>Packaging Dimensions</strong>: 52 x 148mm<br><strong>Product Dimensions: </strong>65 x 38mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2229884256315</id>
+      <title>Plant Award - New Leaf</title>
+      <s:price currency="GBP">2.85</s:price>
+      <s:sku>AW-5</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2229883994171</id>
+    <published>2019-04-29T13:28:00+01:00</published>
+    <updated>2019-04-29T13:28:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/plant-award-surviving"/>
+    <title>Plant Award - Surviving</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/P-AW-Surviving-white-1500.jpg?v=1601308941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            2.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate all your plants achievements with these prized rosettes.</p>
+<p>Plant Awards are fun miniature brass rosettes to recognise your skills in plant care. Decorate their leaves or pots and maybe your other plants will start behaving too!</p>
+<p>There are 6 rosettes in the collection: New Leaf, Thriving, Still Alive, Plant Goals, Surviving and Dream Plant.</p>
+<p>Etched in metal with a beautiful gold string to attach to your plants.</p>
+<p><strong>Contents</strong>: One metal rosette, gold thread<br><strong>Materials</strong>: Brass, FSC paper<br><strong>Packaging Dimensions</strong>: 52 x 148mm<br><strong>Product Dimensions: </strong>65 x 38mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2229883994171</id>
+      <title>Plant Award - Surviving</title>
+      <s:price currency="GBP">2.85</s:price>
+      <s:sku>AW-4</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2229883633723</id>
+    <published>2019-04-29T13:26:52+01:00</published>
+    <updated>2019-04-29T13:26:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/plant-award-dream-plant"/>
+    <title>Plant Award - Dream Plant</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/P-AW-Dream-Plant-green-1500.jpg?v=1571725610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            2.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate all your plants' achievements with these prized rosettes.</p>
+<p>Plant Awards are fun miniature brass rosettes to recognise your skills in plant care. Decorate their leaves or pots and maybe your other plants will start behaving too!</p>
+<p>There are 6 rosettes in the collection: New Leaf, Thriving, Still Alive, Plant Goals, Surviving and Dream Plant.</p>
+<p>Etched in metal with a beautiful gold string to attach to your plants.</p>
+<p><strong>Contents</strong>: One metal rosette, gold thread<br><strong>Materials</strong>: Brass, FSC paper<br><strong>Packaging Dimensions</strong>: 55 x 148mm<br><strong>Product Dimensions: </strong>65 x 38mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2229883633723</id>
+      <title>Plant Award - Dream Plant</title>
+      <s:price currency="GBP">2.85</s:price>
+      <s:sku>AW-3</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2229882323003</id>
+    <published>2019-04-29T13:22:21+01:00</published>
+    <updated>2019-04-29T13:22:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/plant-award-plant-goals"/>
+    <title>Plant Award - Plant Goals</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/P-AW-plant-goals-white-1500.jpg?v=1571725610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            2.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate all your plants' achievements with these prized rosettes.</p>
+<p>Plant Awards are fun miniature brass rosettes to recognise your skills in plant care. Decorate their leaves or pots and maybe your other plants will start behaving too!</p>
+<p>There are 6 rosettes in the collection: New Leaf, Thriving, Still Alive, Plant Goals, Surviving and Dream Plant.</p>
+<p>Etched in metal with a beautiful gold string to attach to your plants.</p>
+<p><strong>Contents</strong>: One metal rosette, gold thread<br><strong>Materials</strong>: Brass, FSC paper<br><strong>Packaging Dimensions</strong>: 52 x 148mm<br><strong>Product Dimensions: </strong>65 x 38mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2229882323003</id>
+      <title>Plant Award - Plant Goals</title>
+      <s:price currency="GBP">2.85</s:price>
+      <s:sku>AW-2</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/642829746235</id>
+    <published>2018-05-03T10:59:18+01:00</published>
+    <updated>2018-05-03T10:59:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/london-panoramic-map"/>
+    <title>London Panoramic Map</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/river-map-1500.jpg?v=1602158803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A beautifully illustrated map of London's Thames.</p>
+<p>The fold-out map features over 100 buildings situated on the north and south banks between Tower Bridge and the Houses of Parliament. The architectural history of each building is plotted on the reverse, uncovering some forgotten stories and fascinating facts.</p>
+<p>The rivers prominence within the capital city has ebbed and flowed through history with the architecture reflecting the evolution of changing lifestyles, technology and design.</p>
+<p>Take a stroll along the riverbanks with our map as your guide, display it as a beautiful print or send as a souvenir to a fellow lover of London</p>
+<p><strong>Contents</strong>: Architectural map<br><strong>Materials</strong>: Paper<br><strong>Product Dimensions</strong>: 210 x 105mm<br><strong>Packaging Dimensions</strong>: 210 x 105 x 5mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Architecture</s:tag>
+    <s:tag>London</s:tag>
+    <s:tag>Map</s:tag>
+    <s:tag>Men</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/642829746235</id>
+      <title>London Panoramic Map</title>
+      <s:price currency="GBP">5.00</s:price>
+      <s:sku>RM-PANO</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/626868060219</id>
+    <published>2018-04-25T14:53:42+01:00</published>
+    <updated>2018-04-25T14:53:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/london-icon-bookmarks"/>
+    <title>London Icon Bookmarks</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/london_face_on_sq.jpg?v=1571725609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Top your books and files with a tiny piece of London's heritage - a great little gift for every London lover.</p>
+<p>This London Icons set includes four stainless steel bookmarks; a miniature Black Cab, Post Box, Telephone Box and the famous Double-decker Bus.</p>
+<p><strong>Contents: </strong>Four page markers<br><strong>Materials: </strong>Stainless steel, paper<br><strong>Packaging Dimensions: </strong>105 x 148mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bookmarks</s:tag>
+    <s:tag>London</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/626868060219</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">3.97</s:price>
+      <s:sku>PM2</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/627193741371</id>
+    <published>2018-04-25T13:24:52+01:00</published>
+    <updated>2018-04-25T13:24:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/crown-minionaire"/>
+    <title>Crown mini model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Crown-miniature.jpg?v=1571725609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-excerpt" data-content-field="excerpt">
+<p>A cute little dolls size crown for the special Prince, Princess, King or Queen in your life.</p>
+<p>Each pack contains one brass model with step by step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions:</strong> 38 x 38 x 40mm<br><strong>Packaging Dimensions:</strong> 105 x 105mm<br><strong>Product Weight: </strong>10g</p>
+<p><br></p>
+</div>
+<div class="product-quantity-input" data-item-id="5734885a07eaa04da4988920"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>king</s:tag>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>queen</s:tag>
+    <s:tag>royal</s:tag>
+    <s:tag>Teachers</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/627193741371</id>
+      <title>Crown mini model</title>
+      <s:price currency="GBP">5.25</s:price>
+      <s:sku>MINI-04-CROWN</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/627096780859</id>
+    <published>2018-04-25T13:24:52+01:00</published>
+    <updated>2018-04-25T13:24:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/cocktail-minionaire"/>
+    <title>Cocktail mini model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Cocktail-glass-model.jpg?v=1571725609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Send a celebratory gift to make your own cocktail kit. Alcohol-free fun and a cute gift idea for party lovers.</p>
+<p>Each pack contains one brass model with step by step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions: </strong>40 x 45 x 25mm<strong><br>Packaging Dimensions:</strong> 105 x 105mm<br><strong>Product Weight: </strong>10g</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Teachers</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/627096780859</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">5.25</s:price>
+      <s:sku>MINI-08-COCKTAIL</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/626597560379</id>
+    <published>2018-04-25T11:40:22+01:00</published>
+    <updated>2018-04-25T11:40:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/sydney-bookmarks"/>
+    <title>Sydney Bookmarks</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/sydney-clips-books-1500.jpg?v=1620129301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iconic Sydney skyline set produced to scale of 4000 times smaller than the real buildings! </p>
+<p>Made from Stainless steel the set includes Sydney's Opera House, Tower, Harbour Bridge and the Queen Victoria Building.</p>
+<p>A brilliant easy to post gift and souvenir for any Aussie lover.</p>
+<p><strong>Contents: </strong>Four page markers<br><strong>Materials: </strong>Stainless steel, paper<br><strong>Packaging Dimensions</strong>: 105 x 148mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30OFF</s:tag>
+    <s:tag>Bookmarks</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Travel</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/626597560379</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">3.97</s:price>
+      <s:sku>CC-5</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/639256395835</id>
+    <published>2018-04-25T10:08:59+01:00</published>
+    <updated>2018-04-25T10:08:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/monumini-battersea-building-kit"/>
+    <title>MONUmini Battersea Power Station</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/high_res.jpg?v=1622629766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MONUmini is an iconic architectural model of Battersea Power Station; an immense building covering some 160m x 170m.</p>
+<p>The kit includes a sheet of etched stainless steel pieces, which fold and lock together to create the miniature structure. It also includes step-by-step assembly instructions and a short building history all packed into an envelope making them a great, easy-to-post, souvenir. </p>
+<p>This is not a toy - the product contains sharp edges and is not suitable for young children.</p>
+<p><strong>Contents:</strong> metal model, instructions, building history<br><strong>Materials: </strong>Stainless steel, paper<br><strong>Product Dimensions:</strong> 100 x 80 x 60mm<br><strong>Packaging Dimensions: </strong>165 x 230mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Architecture</s:tag>
+    <s:tag>London</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>MONUmini</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/639256395835</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">8.25</s:price>
+      <s:sku>MM-4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/624307339323</id>
+    <published>2018-04-25T10:08:59+01:00</published>
+    <updated>2018-04-25T10:08:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tower-bridge-monumini"/>
+    <title>MONUmini Tower Bridge</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/MONUmini-Tower-Bridge-2000-web.jpg?v=1622629770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MONUmini is an architectural model kit; a perfect memento or a fun gift for any design enthusiast or architect.</p>
+<p>The kit includes a sheet of etched stainless steel pieces, which fold and lock together to create the miniature structure. It also includes step-by-step assembly instructions and a short building history all packed into an envelope making them a great, easy-to-post, souvenir.</p>
+<p>Constructed in 1890's, Tower Bridge is a combined bascule and suspension bridge over the River Thames in London.</p>
+<p>This is not a toy - the product contains sharp edges and is not suitable for children.</p>
+<p id="yui_3_17_2_1_1524647418841_866"><strong>Contents: </strong>metal model, instructions, building history<br><strong>Materials: </strong>Stainless steel, paper<br><strong>Product Dimensions: </strong>170 x 40 x 50mm<br><strong>Packaging Dimensions: </strong>165 x 230mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Architecture</s:tag>
+    <s:tag>London</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>MONUmini</s:tag>
+    <s:tag>Teachers</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/624307339323</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">8.25</s:price>
+      <s:sku>MM-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

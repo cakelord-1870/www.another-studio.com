@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.another-studio.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.another-studio.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.another-studio.com/collections/novelty-gifts.atom"/>
+  <title>Another Studio</title>
+  <updated>2021-08-09T16:50:54+01:00</updated>
+  <author>
+    <name>Another Studio</name>
+  </author>
+  <entry>
+    <id>https://www.another-studio.com/products/6591605702774</id>
+    <published>2021-08-09T16:50:54+01:00</published>
+    <updated>2021-08-09T16:50:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/globe-mini-model"/>
+    <title>Globe Mini Model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Mini Model</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Globe-violet-1500.jpg?v=1628680326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Model<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The world is your oyster with this micro-globe model!</p>
+<p id="yui_3_17_2_1_1524666823634_894">Each pack contains one brass flat pack model with step by step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p>This tiny object of desire is one of eleven designs in the range of mini-onaires.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions: </strong>30 x 35 x 42mm<br><strong>Packaging Dimensions:</strong> 10.5 x 10.5cm<br><strong>Product Weight: </strong>10g</p><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Teachers</s:tag>
+    <s:tag>Travel</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6591605702774</id>
+      <title>Globe Mini Model</title>
+      <s:price currency="GBP">5.25</s:price>
+      <s:sku>MINI-10-GLOBE</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/6590367105142</id>
+    <published>2021-08-05T16:35:34+01:00</published>
+    <updated>2021-08-05T16:35:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/brass-bird-decoration"/>
+    <title>Brass Bird Decoration</title>
+    <s:type>Plant Themed</s:type>
+    <s:vendor>Another Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Plant-Animals_Hanging_Bird_lowres-1500_c69dadbc-7909-42e8-b78b-52143001e040.jpg?v=1628503727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio<br>
+        <strong>Type: </strong>Plant Themed<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A beautifully etched brass bird mobile.</p>
+<p>Packed flat, it simply folds together to create an elegant hanging bird decoration. Display with your plants or from a shelf.</p>
+<p>Each pack contains one brass model with assembly instructions. Simply fold the metal into shape, no adhesives or tools required!</p>
+<p><strong>Contents:</strong> x1 brass model, and assembly instructions.<br><strong>Product Dimensions:</strong>80mm diameter<br><strong>Packaging:</strong>148 x 105mm printed on FSC 100% recycled paper, sealed in a plastic free compostable cello wrap. <br><strong>Weight:<span> </span></strong>10g</p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bird</s:tag>
+    <s:tag>Decoration</s:tag>
+    <s:tag>houseplant decorations</s:tag>
+    <s:tag>Houseplant gifts</s:tag>
+    <s:tag>mobile</s:tag>
+    <s:tag>Plant hangers</s:tag>
+    <s:tag>Plants</s:tag>
+    <s:tag>Wildlife</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/6590367105142</id>
+      <title>Brass Bird Decoration</title>
+      <s:price currency="GBP">8.95</s:price>
+      <s:sku>HB-1</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2249502392379</id>
+    <published>2019-05-22T09:36:33+01:00</published>
+    <updated>2019-05-22T09:36:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tiny-trophies-utterly-gorgeous"/>
+    <title>Tiny Trophies - Utterly Gorgeous</title>
+    <s:type>Fun Gifts</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Utterly-Gorgeous-1500.jpg?v=1571725611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Fun Gifts<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiny Trophies are the perfect excuse for you to celebrate the people in your life - family, friends, a colleague - and share what they mean to you. Fun and playful, these miniature brass awards are a great gift to highlight a person’s qualities and let slip what you admire and love about them the most.</p>
+<p>Each Tiny Trophy is easy to assemble, the base of the trophy simply folding to stand upright. Lightweight and packed flat, these cute, little awards are easy gifts to send in the post.</p>
+<p><span style="font-weight: 400;"><span><strong>Contents</strong>: Tiny Trophy<br><strong>Materials</strong>: Paper, Brass<br><strong>Packaging Dimensions</strong>: </span></span>52mm x 148mm<br><strong>Product Dimensions:</strong> 45 x 25 x 10mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Tiny Trophies</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2249502392379</id>
+      <title>Utterly Gorgeous</title>
+      <s:price currency="GBP">2.25</s:price>
+      <s:sku>TT-4</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2249502228539</id>
+    <published>2019-05-22T09:36:20+01:00</published>
+    <updated>2019-05-22T09:36:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tiny-trophies-my-super-hero"/>
+    <title>Tiny Trophies - My Super hero</title>
+    <s:type>Fun Gifts</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/My-super-hero-1500.jpg?v=1571725611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Fun Gifts<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiny Trophies are the perfect excuse for you to celebrate the people in your life - family, friends, a colleague - and share what they mean to you. Fun and playful, these miniature brass awards are a great gift to highlight a person’s qualities and let slip what you admire and love about them the most.</p>
+<p>Each Tiny Trophy is easy to assemble, the base of the trophy simply folding to stand upright. Lightweight and packed flat, these cute, little awards are easy gifts to send in the post.</p>
+<p><span style="font-weight: 400;"><span><strong>Contents</strong>: Tiny Trophy<br><strong>Materials</strong>: Paper, Brass<br><strong>Packaging Dimensions</strong>: 52 x 148mm</span></span><span style="font-weight: 400;"><br><span><strong>Product Dimensions:</strong> 40 x 34 x 10mm</span></span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Tiny Trophies</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2249502228539</id>
+      <title>My Super Hero</title>
+      <s:price currency="GBP">2.25</s:price>
+      <s:sku>TT-2</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2249502097467</id>
+    <published>2019-05-22T09:36:13+01:00</published>
+    <updated>2019-05-22T09:36:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tiny-trophies-most-thoughtful"/>
+    <title>Tiny Trophies - Most Thoughtful</title>
+    <s:type>Fun Gifts</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Most-thoughtful-1500.jpg?v=1571725611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Fun Gifts<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiny Trophies are the perfect excuse for you to celebrate the people in your life - family, friends, a colleague - and share what they mean to you. Fun and playful, these miniature brass awards are a great gift to highlight a person’s qualities and let slip what you admire and love about them the most.</p>
+<p>Each Tiny Trophy is easy to assemble, the base of the trophy simply folding to stand upright. Lightweight and packed flat, these cute, little awards are easy gifts to send in the post.</p>
+<p><span style="font-weight: 400;"><span><strong>Contents</strong>: Tiny Trophy<br><strong>Materials</strong>: Paper, Brass<br><span style="font-weight: 400;"><span><strong>Packaging Dimensions</strong>: 52mm x 148mm <br><strong>Product Dimensions: </strong>40 x 25 x 10mm<br></span></span></span></span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Tiny Trophies</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2249502097467</id>
+      <title>Most Thoughtful</title>
+      <s:price currency="GBP">2.25</s:price>
+      <s:sku>TT-5</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/2249501868091</id>
+    <published>2019-05-22T09:36:01+01:00</published>
+    <updated>2019-05-22T09:36:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/tiny-trophies-all-round-entertainer"/>
+    <title>Tiny Trophies - All Round Entertainer</title>
+    <s:type>Fun Gifts</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/All-round-entertainer-1200_b4fa7b52-8ca5-4ece-8fac-c9e0a41d3209.jpg?v=1571725610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Fun Gifts<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiny Trophies are the perfect excuse for you to celebrate the people in your life - family, friends, a colleague - and share what they mean to you. Fun and playful, these miniature brass awards are a great gift to highlight a person’s qualities and let slip what you admire and love about them the most.</p>
+<p>Each Tiny Trophy is easy to assemble, the base of the trophy simply folding to stand upright. Lightweight and packed flat, these cute, little awards are easy gifts to send in the post.</p>
+<p><span style="font-weight: 400;"><span><strong>Contents</strong>: Tiny Trophy<br><strong>Materials</strong>: Paper, Brass</span></span><span style="font-weight: 400;"><span><br><strong>Packaging Dimensions</strong>: </span></span>52mm x 148mm <br><strong>Product Dimensions: </strong>35 x 30 x 10mm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Tiny Trophies</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/2249501868091</id>
+      <title>All Round Entertainer</title>
+      <s:price currency="GBP">2.25</s:price>
+      <s:sku>TT-3</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/626868060219</id>
+    <published>2018-04-25T14:53:42+01:00</published>
+    <updated>2018-04-25T14:53:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/london-icon-bookmarks"/>
+    <title>London Icon Bookmarks</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/london_face_on_sq.jpg?v=1571725609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Top your books and files with a tiny piece of London's heritage - a great little gift for every London lover.</p>
+<p>This London Icons set includes four stainless steel bookmarks; a miniature Black Cab, Post Box, Telephone Box and the famous Double-decker Bus.</p>
+<p><strong>Contents: </strong>Four page markers<br><strong>Materials: </strong>Stainless steel, paper<br><strong>Packaging Dimensions: </strong>105 x 148mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bookmarks</s:tag>
+    <s:tag>London</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/626868060219</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">3.97</s:price>
+      <s:sku>PM2</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/627193741371</id>
+    <published>2018-04-25T13:24:52+01:00</published>
+    <updated>2018-04-25T13:24:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/crown-minionaire"/>
+    <title>Crown mini model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Crown-miniature.jpg?v=1571725609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-excerpt" data-content-field="excerpt">
+<p>A cute little dolls size crown for the special Prince, Princess, King or Queen in your life.</p>
+<p>Each pack contains one brass model with step by step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions:</strong> 38 x 38 x 40mm<br><strong>Packaging Dimensions:</strong> 105 x 105mm<br><strong>Product Weight: </strong>10g</p>
+<p><br></p>
+</div>
+<div class="product-quantity-input" data-item-id="5734885a07eaa04da4988920"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>king</s:tag>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>queen</s:tag>
+    <s:tag>royal</s:tag>
+    <s:tag>Teachers</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/627193741371</id>
+      <title>Crown mini model</title>
+      <s:price currency="GBP">5.25</s:price>
+      <s:sku>MINI-04-CROWN</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.another-studio.com/products/627096780859</id>
+    <published>2018-04-25T13:24:52+01:00</published>
+    <updated>2018-04-25T13:24:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.another-studio.com/products/cocktail-minionaire"/>
+    <title>Cocktail mini model</title>
+    <s:type>Model Kits</s:type>
+    <s:vendor>Another Studio Design Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0027/6522/6043/products/Cocktail-glass-model.jpg?v=1571725609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Another Studio Design Shop<br>
+        <strong>Type: </strong>Model Kits<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Send a celebratory gift to make your own cocktail kit. Alcohol-free fun and a cute gift idea for party lovers.</p>
+<p>Each pack contains one brass model with step by step assembly instructions. Simply fold the metal into shape. No adhesives are required but tweezers or small pliers may be helpful.</p>
+<p><strong>Contents: </strong>metal model, instructions<br><strong>Materials: </strong>coated stainless steel, paper<br><strong>Product Dimensions: </strong>40 x 45 x 25mm<strong><br>Packaging Dimensions:</strong> 105 x 105mm<br><strong>Product Weight: </strong>10g</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mini Models</s:tag>
+    <s:tag>Teachers</s:tag>
+    <s:variant>
+      <id>https://www.another-studio.com/products/627096780859</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">5.25</s:price>
+      <s:sku>MINI-08-COCKTAIL</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+</feed>
